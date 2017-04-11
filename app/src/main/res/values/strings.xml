@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Album</string>
+    <string name="image"> 图片 </string>
+    <string name="video"> 视频 </string>
+    <string name="audio"> 音频 </string>
+    <string name="done"> 完成 </string>
+    <string name="select_file"> 请选择 </string>
+    <string name="clear"> 清除数据 </string>
+    <string name="max_limit_reach_error"> 已达到上限 </string>
+    <string name="max_limit_file"> 至多 </string>
+    <string name="please_select_file"> 请选择文件 </string>
+    <string name="no_media_file_available"> 无有效文件 </string>
+
+    <string name="securityException">安全出错</string>
+    <string name="failed">摄影失败！</string>
+
+    <string name="record">开始</string>
+    <string name="picture">照相</string>
+    <string name="sure">确定</string>
+    <string name="cancel">取消</string>
+    <string name="description_info">信息</string>
+    <string name="request_permission">请开启相机权限.</string>
+    <string name="camera_error">设备不支持</string>
+    <string name="permission_request">需要开启权限</string>
+    <string name="stop">停止</string>
+</resources>
